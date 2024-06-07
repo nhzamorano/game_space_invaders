@@ -1,5 +1,6 @@
 Nombre del Juego Space Invaders
 Trabajo para la clase de programacion I
+Universidad Libre Cali
 Profesor Diego F. Marin
 
 Realizado por:
