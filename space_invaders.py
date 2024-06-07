@@ -23,6 +23,7 @@ def run_game():
     score = ai_settings.score
     run = True 
     while run:
+        score = ai_settings.score
         clock.tick(ai_settings.fps)
         window.blit(ai_settings.fondo, (0,0))
         for event in pygame.event.get():
